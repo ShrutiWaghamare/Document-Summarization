@@ -1,0 +1,13 @@
+langchain
+langchain-text-splitters
+langchain-community
+PyPDF2
+python-docx
+sentence-transformers
+faiss-cpu
+streamlit
+transformers
+torch
+numpy
+langgraph
+
